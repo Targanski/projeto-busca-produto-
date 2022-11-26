@@ -1,0 +1,27 @@
+1-Material de limpeza: amaciante de roupa, sabão em pó, água sanitária, tira manchas, sacos para lixo, balde, vassoura, flanela, palha de aço, detergente, limpa vidros, etc.;
+
+2-Higiene pessoal: desodorante, shampoo, condicionador, sabonete, papel higiênico, creme dental, escova de dente, absorvente, hidratante, etc.;
+
+3-Cereais e farináceos: arroz, feijão, aveia, farinha de trigo, mistura para bolos, cereal matinal, grão-de-bico, ervilha, farinha de aveia, quibe, sal, açúcar, etc.;
+
+4-Bebidas: água, suco, refrigerante, cerveja, vinho, destilados, água com gás, água tônica, etc.;
+
+5-Produtos pet: rações, brinquedos, ossinhos, bifinhos, vasilhas, shampoo, etc.;
+
+6-Utensílios para cozinha: espátulas, talheres, papel filme, papel alumínio, formas, panelas, pratos, guardanapos, etc.;
+
+7-Laticínios: manteiga, requeijão, leite, iogurte, sobremesas lácteas, produtos sem lactose, etc.;
+
+8-Congelados: vegetais, pães, massas, sobremesas, carnes, sorvetes, etc.
+
+9-Enlatados: atum, sardinha, milho, ervilha, leite condensado, azeite de oliva, etc;
+
+10-Frios: queijo, presunto, mortadela, peito de peru, salame, etc.;
+
+11-Açougue (carnes e aves): alcatra, costela de porco ou bovina, cupim, maminha, músculo, picanha, bife, filé de frango, coxa de frango, lombo suíno, salsichas, linguiças, miúdos, etc.;
+
+12-Peixaria: cação, namorado, corvina, camarão, sardinha, trilha, tainha, mexilhão, ostra, etc.;
+
+13-Hortifrúti (frutas e verduras): maçã, uva, pêra, banana, laranja, mamão, mexerica, morango, alface, agrião, couve, brócolis, couve-flor, etc.;
+
+14-Padaria:  pães, salgados, doces, bolos, etc.;
